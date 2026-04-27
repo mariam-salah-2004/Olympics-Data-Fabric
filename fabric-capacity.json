@@ -1,0 +1,21 @@
+{
+    "apiVersion": "2023-11-01",
+    "id": "/subscriptions/3cd7032c-0a10-402a-98c0-76ca2eba06eb/resourceGroups/fabgroup/providers/Microsoft.Fabric/capacities/fabricapicty",
+    "name": "fabricapicty",
+    "type": "microsoft.fabric/capacities",
+    "sku": {
+        "name": "F2",
+        "tier": "Fabric"
+    },
+    "location": "swedencentral",
+    "tags": {},
+    "properties": {
+        "provisioningState": "Succeeded",
+        "state": "Active",
+        "administration": {
+            "members": [
+                "me30401200101447@depi.eui.edu.eg"
+            ]
+        }
+    }
+}
